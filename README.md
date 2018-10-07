@@ -7,7 +7,7 @@
 3. Run `npm install` 
 
 ## Starting the application
-Run `npm start`. The server will be found at [http://localhost:3000]
+Run `npm start`. The application will be found at [http://localhost:3000]
 
 ## Testing
 To test, run `npm test`.
