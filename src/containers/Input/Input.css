@@ -1,0 +1,11 @@
+.form-space {
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.view-div {
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    margin: 0 auto;
+}

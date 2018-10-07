@@ -1,0 +1,1 @@
+export default ({colors, selectedColor}) => ({initialValues: {hex: colors[selectedColor]}, selectedColor})

@@ -5,12 +5,15 @@
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.4"
+    "react-redux": "^5.0.7",
+    "react-scripts": "2.0.4",
+    "redux": "^4.0.0",
+    "redux-form": "^7.4.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test  --env=jsdom",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -21,5 +24,13 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "babel-jest": "^23.6.0",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.6.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^23.6.0",
+    "jest-enzyme": "^6.1.2"
+  }
 }
