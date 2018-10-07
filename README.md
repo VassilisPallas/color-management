@@ -2,7 +2,7 @@
 ### A Color Management​ application to insert, edit and delete hex colors
 
 ## Installing
-1. Clone or fork the course repository found at [https://github.com/flyrightsister/udemy-react-testing-projects]
+1. Clone or fork the repository
 2. `cd` into the `color_management` directory (where this README is located).
 3. Run `npm install` 
 
